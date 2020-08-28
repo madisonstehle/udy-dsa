@@ -1,0 +1,19 @@
+{
+  "name": "udy-dsa",
+  "version": "1.0.0",
+  "description": "data structures and algorithms practice guided by Udemy masterclass. Taught by Colt Steele",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "lint": "eslint **/*.js",
+    "test": "jest --coverage --verbose",
+    "watch": "jest --watchAll",
+    "test-watch": "jest --watchAll --verbose --coverage"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "jest": "^24.1.0"
+  }
+}
