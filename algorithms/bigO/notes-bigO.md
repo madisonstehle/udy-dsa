@@ -81,11 +81,11 @@ Here we have an O(n) operation inside of an O(n) operation, which means that for
 
 ### Tips & Tricks
 1. Constants and small terms don't matter.
-  - O(2n) = O(n)
-  - O(n + 10) = O(n)
-  - O(500) = O(1)
-  - O(13n<sup>2</sup>) = O(n<sup>2</sup>)
-  - O(n<sup>2</sup> + 5n + 8) = O(n<sup>2</sup>)
+    - O(2n) = O(n)
+    - O(n + 10) = O(n)
+    - O(500) = O(1)
+    - O(13n<sup>2</sup>) = O(n<sup>2</sup>)
+    - O(n<sup>2</sup> + 5n + 8) = O(n<sup>2</sup>)
 2. Arithmetic operations are constant.
 3. Variable assignment is constant.
 4. Accessing elements in an array by index or an object by key is constant.
