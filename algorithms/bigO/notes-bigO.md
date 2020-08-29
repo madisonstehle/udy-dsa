@@ -150,3 +150,7 @@ For example:
 - **Time Complexity**: Analyzing the runtime of an algorithm as the size of inputs increases.
 - **Space Complexity**: Analyzing how much additional memory we need to allocate in order to run the algorithm.
   - If you hear **Auxiliary Space Complexity**, that refers to the space required by the algorithm _not including_ space taken up by the inputs. Most of the time, this is what we're talking about when we say space complexity.
+
+
+
+#### [Back to Home](../../README.md)

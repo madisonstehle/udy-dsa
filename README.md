@@ -4,6 +4,7 @@
 ### Table of Contents
 #### Algorithms
 - [Big O Notation](/algorithms/bigO/notes-bigO.md)
+- [Arrays and Objects](/algorithms/arraysAndObjects/notes-arrObj.md)
 
 
 ### Credits
