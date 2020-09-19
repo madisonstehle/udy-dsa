@@ -8,5 +8,8 @@
 - [Problem Solving Approach](/algorithms/problemSolving/notes-problemSolving.md)
 
 
+#### Additional Practice
+- [Arrays]
+
 ### Credits
 - [JavaScript Algorithms and Data Structures Masterclass](https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/)
