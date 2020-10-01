@@ -1,5 +1,5 @@
 # udy-dsa
-## JavaScript Data Structures & Algorithms
+## Udemy Class - JavaScript Data Structures and Algorithms Masterclass
 
 ### Table of Contents
 #### Algorithms
